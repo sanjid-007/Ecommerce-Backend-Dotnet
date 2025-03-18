@@ -1517,11 +1517,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\temp\\E-commerce-app-with-.Net-Core-and-Angular\\backend\\Ecommerce\\Ecommerce.csproj",
+      "projectUniqueName": "D:\\Temp\\Ecommerce-With-Dotnet-Angular-main\\Ecommerce-With-Dotnet-Angular-main\\backend\\Ecommerce\\Ecommerce.csproj",
       "projectName": "Ecommerce",
-      "projectPath": "D:\\temp\\E-commerce-app-with-.Net-Core-and-Angular\\backend\\Ecommerce\\Ecommerce.csproj",
+      "projectPath": "D:\\Temp\\Ecommerce-With-Dotnet-Angular-main\\Ecommerce-With-Dotnet-Angular-main\\backend\\Ecommerce\\Ecommerce.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\temp\\E-commerce-app-with-.Net-Core-and-Angular\\backend\\Ecommerce\\obj\\",
+      "outputPath": "D:\\Temp\\Ecommerce-With-Dotnet-Angular-main\\Ecommerce-With-Dotnet-Angular-main\\backend\\Ecommerce\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

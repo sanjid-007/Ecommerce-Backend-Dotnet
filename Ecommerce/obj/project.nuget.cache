@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/69CAwCqqgo=",
+  "dgSpecHash": "8k9/LfSFtwI=",
   "success": true,
-  "projectFilePath": "D:\\temp\\E-commerce-app-with-.Net-Core-and-Angular\\backend\\Ecommerce\\Ecommerce.csproj",
+  "projectFilePath": "D:\\Temp\\Ecommerce-With-Dotnet-Angular-main\\Ecommerce-With-Dotnet-Angular-main\\backend\\Ecommerce\\Ecommerce.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.0\\microsoft.aspnetcore.authentication.jwtbearer.8.0.0.nupkg.sha512",
