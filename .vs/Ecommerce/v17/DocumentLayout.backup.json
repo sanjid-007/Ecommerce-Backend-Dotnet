@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Temp\\Ecommerce-With-Dotnet-Angular-main\\Ecommerce-With-Dotnet-Angular-main\\backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6ACF88CC-CC26-4BE4-838C-8EADCA9922BA}|Ecommerce\\Ecommerce.csproj|d:\\temp\\ecommerce-with-dotnet-angular-main\\ecommerce-with-dotnet-angular-main\\backend\\ecommerce\\render.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6ACF88CC-CC26-4BE4-838C-8EADCA9922BA}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\render.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6ACF88CC-CC26-4BE4-838C-8EADCA9922BA}|Ecommerce\\Ecommerce.csproj|d:\\temp\\ecommerce-with-dotnet-angular-main\\ecommerce-with-dotnet-angular-main\\backend\\ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{6ACF88CC-CC26-4BE4-838C-8EADCA9922BA}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -62,6 +66,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "render.yaml",
+              "DocumentMoniker": "D:\\Temp\\Ecommerce-With-Dotnet-Angular-main\\Ecommerce-With-Dotnet-Angular-main\\backend\\Ecommerce\\render.yaml",
+              "RelativeDocumentMoniker": "Ecommerce\\render.yaml",
+              "ToolTip": "D:\\Temp\\Ecommerce-With-Dotnet-Angular-main\\Ecommerce-With-Dotnet-Angular-main\\backend\\Ecommerce\\render.yaml*",
+              "RelativeToolTip": "Ecommerce\\render.yaml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-03-18T20:25:57.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Temp\\Ecommerce-With-Dotnet-Angular-main\\Ecommerce-With-Dotnet-Angular-main\\backend\\Ecommerce\\appsettings.json",
               "RelativeDocumentMoniker": "Ecommerce\\appsettings.json",
@@ -69,12 +86,11 @@
               "RelativeToolTip": "Ecommerce\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-18T19:54:20.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T19:54:20.51Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\User\\AppData\\Local\\Temp\\64bbc52e-b95f-48c3-b713-c40e95f150d6_Allinonebackend-main.zip.0d6\\Allinonebackend-main\\Ecommerce\\Model\\User.cs",
               "ToolTip": "C:\\Users\\User\\AppData\\Local\\Temp\\64bbc52e-b95f-48c3-b713-c40e95f150d6_Allinonebackend-main.zip.0d6\\Allinonebackend-main\\Ecommerce\\Model\\User.cs [Read Only]",
@@ -84,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ProfileController.cs",
               "DocumentMoniker": "D:\\Temp\\Ecommerce-With-Dotnet-Angular-main\\Ecommerce-With-Dotnet-Angular-main\\backend\\Ecommerce\\Controllers\\ProfileController.cs",
               "RelativeDocumentMoniker": "Ecommerce\\Controllers\\ProfileController.cs",
@@ -96,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\Temp\\Ecommerce-With-Dotnet-Angular-main\\Ecommerce-With-Dotnet-Angular-main\\backend\\Ecommerce\\Model\\User.cs",
               "RelativeDocumentMoniker": "Ecommerce\\Model\\User.cs",
@@ -108,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\Temp\\Ecommerce-With-Dotnet-Angular-main\\Ecommerce-With-Dotnet-Angular-main\\backend\\Ecommerce\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Ecommerce\\Services\\UserService.cs",
@@ -120,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CartService.cs",
               "DocumentMoniker": "D:\\Temp\\Ecommerce-With-Dotnet-Angular-main\\Ecommerce-With-Dotnet-Angular-main\\backend\\Ecommerce\\Services\\CartService.cs",
               "RelativeDocumentMoniker": "Ecommerce\\Services\\CartService.cs",
@@ -132,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ProductService.cs",
               "DocumentMoniker": "D:\\Temp\\Ecommerce-With-Dotnet-Angular-main\\Ecommerce-With-Dotnet-Angular-main\\backend\\Ecommerce\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "Ecommerce\\Services\\ProductService.cs",
@@ -144,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "TokenValidationMiddleware.cs",
               "DocumentMoniker": "D:\\Temp\\Ecommerce-With-Dotnet-Angular-main\\Ecommerce-With-Dotnet-Angular-main\\backend\\Ecommerce\\Middleware\\TokenValidationMiddleware.cs",
               "RelativeDocumentMoniker": "Ecommerce\\Middleware\\TokenValidationMiddleware.cs",
@@ -156,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\Temp\\Ecommerce-With-Dotnet-Angular-main\\Ecommerce-With-Dotnet-Angular-main\\backend\\Ecommerce\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Ecommerce\\Controllers\\AuthController.cs",
@@ -168,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Temp\\Ecommerce-With-Dotnet-Angular-main\\Ecommerce-With-Dotnet-Angular-main\\backend\\Ecommerce\\Program.cs",
               "RelativeDocumentMoniker": "Ecommerce\\Program.cs",
@@ -180,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Cart.cs",
               "DocumentMoniker": "D:\\Temp\\Ecommerce-With-Dotnet-Angular-main\\Ecommerce-With-Dotnet-Angular-main\\backend\\Ecommerce\\Model\\Cart.cs",
               "RelativeDocumentMoniker": "Ecommerce\\Model\\Cart.cs",
@@ -192,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CartController.cs",
               "DocumentMoniker": "D:\\Temp\\Ecommerce-With-Dotnet-Angular-main\\Ecommerce-With-Dotnet-Angular-main\\backend\\Ecommerce\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "Ecommerce\\Controllers\\CartController.cs",

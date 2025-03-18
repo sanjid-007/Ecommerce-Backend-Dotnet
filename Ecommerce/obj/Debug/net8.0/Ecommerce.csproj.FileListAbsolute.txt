@@ -203,7 +203,6 @@ D:\Temp\Ecommerce-With-Dotnet-Angular-main\Ecommerce-With-Dotnet-Angular-main\ba
 D:\Temp\Ecommerce-With-Dotnet-Angular-main\Ecommerce-With-Dotnet-Angular-main\backend\Ecommerce\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Ecommerce.props
 D:\Temp\Ecommerce-With-Dotnet-Angular-main\Ecommerce-With-Dotnet-Angular-main\backend\Ecommerce\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Ecommerce.props
 D:\Temp\Ecommerce-With-Dotnet-Angular-main\Ecommerce-With-Dotnet-Angular-main\backend\Ecommerce\obj\Debug\net8.0\staticwebassets.pack.json
-D:\Temp\Ecommerce-With-Dotnet-Angular-main\Ecommerce-With-Dotnet-Angular-main\backend\Ecommerce\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\Temp\Ecommerce-With-Dotnet-Angular-main\Ecommerce-With-Dotnet-Angular-main\backend\Ecommerce\obj\Debug\net8.0\Ecommerce.csproj.Up2Date
 D:\Temp\Ecommerce-With-Dotnet-Angular-main\Ecommerce-With-Dotnet-Angular-main\backend\Ecommerce\obj\Debug\net8.0\Ecommerce.dll
 D:\Temp\Ecommerce-With-Dotnet-Angular-main\Ecommerce-With-Dotnet-Angular-main\backend\Ecommerce\obj\Debug\net8.0\refint\Ecommerce.dll
